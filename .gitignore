@@ -1,5 +1,3 @@
 .idea/
-.target
-.src/ATM.iml
-.src/pom.xml
-.src/test/
+.target/
+
